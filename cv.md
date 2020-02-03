@@ -23,6 +23,7 @@ About a hobby: I am fond of dancing, sometimes I read fiction.
 - Git, Github, Github pages;
 - BEM;
 - Gulp;
+- Webpack;
 - JavaScript (ES7);
 - the basics of jQuery;
 - Avocode.
