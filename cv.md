@@ -3,6 +3,8 @@
 ## 1. Contacts:
 **mob. number** - + 375-44-746-88-60
 
+**github** - https://github.com/wviktor93
+
 **email** - triputina.victoria@gmail.com
 
 **discord / telegram** - @vickymarshmallow
