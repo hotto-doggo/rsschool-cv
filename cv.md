@@ -1,6 +1,4 @@
-# rsschool-cv
-
-## 1. Name and surname:
+## 1. Name and surname: 
 Victoria Triputina
 
 ## 2. Contacts:
